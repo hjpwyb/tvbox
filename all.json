@@ -1,0 +1,13 @@
+{"urls": [{"name": ".gitignore", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/.gitignore"},
+          {"name": "favicon.ico", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/favicon.ico"},
+          {"name": "list.m3u", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/list.m3u"},
+          {"name": "list", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/list.txt"},
+          {"name": "listx.m3u", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/listx.m3u"},
+          {"name": "listx", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/listx.txt"},
+          {"name": "livex.m3u", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/livex.m3u"},
+          {"name": "radio.m3u", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/radio.m3u"},
+          {"name": "radio", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/radio.txt"},
+          {"name": "tvboxtv", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/tvboxtv.txt"},
+          {"name": "tvlive", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/tvlive.txt"},
+          {"name": "yo21", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/yo21.txt"},
+          {"name": "饭太硬", "url": "https://ghp.ci/https://raw.githubusercontent.com/hjpwyb/tvbox/master/饭太硬.txt"}]}
