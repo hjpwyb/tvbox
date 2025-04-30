@@ -95,7 +95,7 @@ V1.1.2版本以下
 
 （11）俊于：http://home.jundie.top:81/top98.json
 
-（12）橘子柚：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
+（12）橘子柚：https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
 
 （13）电视（自用）： <https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json>
 
